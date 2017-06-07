@@ -39,6 +39,8 @@ gem 'materialize-sass'
 gem 'material_icons'
 gem 'carrierwave'
 gem 'cloudinary'
+gem 'omniauth'
+gem 'omniauth-facebook'
 
 group :test do
   gem "factory_girl_rails"

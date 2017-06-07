@@ -4,8 +4,8 @@ development: &default
   database: colabore_development
   pool: 5
   username: postgres
-  password:
-  host: db
+  password: yuri2390
+  host: localhost
 
 test:
   <<: *default
